@@ -1,0 +1,10 @@
+C:\Users\parke\source\repos\CellularAutomata\CellularAutomata\bin\Debug\CellularAutomata.exe.config
+C:\Users\parke\source\repos\CellularAutomata\CellularAutomata\bin\Debug\CellularAutomata.exe
+C:\Users\parke\source\repos\CellularAutomata\CellularAutomata\bin\Debug\CellularAutomata.pdb
+C:\Users\parke\source\repos\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.csprojAssemblyReference.cache
+C:\Users\parke\source\repos\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.Form1.resources
+C:\Users\parke\source\repos\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.Properties.Resources.resources
+C:\Users\parke\source\repos\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.csproj.GenerateResource.cache
+C:\Users\parke\source\repos\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.csproj.CoreCompileInputs.cache
+C:\Users\parke\source\repos\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.exe
+C:\Users\parke\source\repos\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.pdb
